@@ -13,3 +13,5 @@ which combines spectacular firefights, customization of equipment sets, and spec
   First-person shooter, Multiplayer mode
 
   Download and install a file from the repository with an extended list of maps and mods for a more realistic and complete game experience
+
+[<img src="https://github.com/gerwalr948/xdefiant/blob/main/XDefiant_Logo.png"/>]
